@@ -1,0 +1,19 @@
+{
+  "name": "meanapp",
+  "version": "1.0.0",
+  "description": "a mean app",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app"
+  },
+  "repository": {
+    "type": "git",
+    "url": "\u0016https://github.com/kolinjacobs/meanStackApp.git"
+  },
+  "author": "kolin jacobs",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.3",
+    "pug": "^2.0.0-rc.2"
+  }
+}
